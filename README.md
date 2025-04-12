@@ -1,8 +1,10 @@
 # Rotten Tomatoes Audience Rating Prediction
 This project aims to predict audience rating for movies based on their metadata using machine learning. The dataset used is the Rotten Tomatoes Movies3 dataset, containing detailed information such as movie titles, genres, runtime, release dates, and critic reviews.
 
+## Dataset
+The dataset for this project can be downloaded from Kaggle: [Dataset Link](https://www.kaggle.com/datasets/pranavvkathar/rotten-tomatoes-movies3-csv?select=Rotten_Tomatoes_Movies3.xls)
 
-🚀 # Project Highlights
+## Project Highlights
 
 1. **Data Preprocessing**
 
